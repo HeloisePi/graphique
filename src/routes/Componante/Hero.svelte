@@ -32,4 +32,22 @@
         width: 100vw;
     }
 
+    @media screen and (max-width: 720px) {
+        p{
+            width: 60vw;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        h1{
+            font-size: 50px;
+            text-align: center;
+            
+        }
+        p{
+            width: 90vw;
+        }
+    }
+    
+
 </style>

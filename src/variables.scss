@@ -1,6 +1,6 @@
 //      COLOR
 
-$violet: #E8D7FF; 
+$gold: #D7B764; 
 $green: #EEFFD7;
 $blue: #3300FF;
 $darkViolet: #BD00FF;
@@ -10,7 +10,7 @@ $grey: #E8E8E8;
 
 @font-face {
     font-family: 'Montserrat-Regular';
-    src: url(/src/assets/Montserrat-Regular.ttf);
+    src: url(/src/lib/assets/Montserrat-Regular.ttf);
 }
 
 @font-face {
@@ -24,12 +24,12 @@ $ffBranch : 'Branch';
 
 h1{
     font-family: $ffBranch;
-    font-size: 6vw;
+    font-size: 4rem;
 }
 
 h2{
-    font-family: $ffMontserratRegular;
-    font-size: 4vw;
+    font-family: $ffBranch;
+    font-size: 36px;
 }
 
 h3{

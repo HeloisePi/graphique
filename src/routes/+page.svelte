@@ -1,5 +1,7 @@
 <script>
-	import Hero from "./Componante/Hero.svelte";
+	import CreationSerge from "./Componante/CreationSerge.svelte";
+import Hero from "./Componante/Hero.svelte";
+	import Saga from "./Componante/Saga.svelte";
 
 </script>
 
@@ -10,9 +12,16 @@
 
 <section>
 	<Hero />
+	<Saga />
+	<CreationSerge />
 </section>
 
 <style>
+section{
+	display: flex;
+	flex-direction: column;
+	gap: 10rem;
+}
 
 	
 	

@@ -1,0 +1,57 @@
+<script>
+	import Bouton from "./utilities/Bouton.svelte";
+
+</script>
+
+<div class="contenaireSaga">
+    <img src="/images/book.png" alt="image livre saga">
+    <div>
+        <h2>La Saga QUATRE</h2>
+        <p>QUATRE, romans de fantasy, suit les aventures de Rashele, Dyane,
+             Tim et Side. Au commencement, ils ne se connaissent pas et
+              vivent dans quatre continents
+             différents. Ils découvrent par la suite qu’ils sont les héritiers
+              de grandes familles mandatées par les quatre Mères et Pères Fondateurs
+               de l’Humanité pour protéger l’Homme de lui-même.
+            Mariane Gahengi et Serge Pingitore, autrices et illustrateur, vous proposent
+             un format novateur où l’écriture s’allie aux croquis, aux illustrations 
+             et à la bande dessinée pour emmener le lecteur dans l’imaginaire narratif.</p>
+
+             <Bouton src=#>Voir plus</Bouton>
+    </div>
+
+</div>
+<style>
+    .contenaireSaga{
+        display: flex;
+        gap: 4rem;
+        border: 1px solid  #D7B764;
+        align-items: center;
+        padding: 4rem;
+        width: 70vw;
+        margin: auto;
+    }
+
+    .contenaireSaga div{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    @media screen and (max-width: 1100px) {
+        .contenaireSaga{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+    }
+    }
+
+    @media screen and (max-width: 645px) {
+        .contenaireSaga{
+            padding: 1rem;
+            gap: 1rem;
+            width: 90vw;
+    }
+}
+</style>
