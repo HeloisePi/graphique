@@ -15,8 +15,12 @@
 		"@sveltejs/kit": "^1.20.4",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.10.1",
+		"sass": "^1.69.4",
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"scss": "^0.2.4"
+	}
 }

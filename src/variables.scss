@@ -1,0 +1,59 @@
+//      COLOR
+
+$violet: #E8D7FF; 
+$green: #EEFFD7;
+$blue: #3300FF;
+$darkViolet: #BD00FF;
+$grey: #E8E8E8;
+
+//      FONT FAMILY
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(/src/assets/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Branch';
+    src: url(/src/assets/Branch.ttf);
+}
+
+$ffMontserratRegular : 'Montserrat-Regular';
+$ffBranch : 'Branch';
+//      FONT STYLE & STYLE 
+
+h1{
+    font-family: $ffBranch;
+    font-size: 6vw;
+}
+
+h2{
+    font-family: $ffMontserratRegular;
+    font-size: 4vw;
+}
+
+h3{
+    font-family: $ffMontserratRegular;
+    font-size: 1.25rem;
+}
+
+h4{
+    font-family: $ffMontserratRegular;
+    font-size: 1.25rem;
+}
+
+h5{
+    font-family: $ffMontserratRegular;
+    font-size: 0.875rem;
+}
+
+p{
+    font-family: $ffMontserratRegular;
+    font-size: 1.25rem;
+}
+
+a{
+    &:hover{
+        text-decoration: underline;
+    }
+}
