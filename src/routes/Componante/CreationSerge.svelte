@@ -2,17 +2,19 @@
 	import Bouton from "./utilities/Bouton.svelte";
 
 </script>
+<section>
 
-<div class="contenaireCreationSerge">
-    <h2>Les Créations de Serge</h2>
-    <div class="imageTableau">
-        <img class="tableau1" src="/images/tableau1.png" alt="tableau">
-        <img class="tableau2" src="/images/tableau2.png" alt="tableau">
-        <img class="tableau3" src="/images/tableau3.png" alt="tableau">
+    <div class="contenaireCreationSerge">
+        <h2>Les Créations de Serge</h2>
+        <div class="imageTableau">
+            <img class="tableau1" src="/images/tableau1.png" alt="tableau">
+            <img class="tableau2" src="/images/tableau2.png" alt="tableau">
+            <img class="tableau3" src="/images/tableau3.png" alt="tableau">
+        </div>
+        <Bouton src="#">Voir plus</Bouton>
     </div>
-    <Bouton src="#">Voir plus</Bouton>
-</div>
-<img class="line" src="/images/line/line3.svg" alt="line">
+    <img class="line" src="/images/line/line3.svg" alt="line">
+</section>
 <style>
 
     h2{
@@ -43,8 +45,9 @@
     }
 
     .line{
+        position: absolute;
         width: 100vw;
-        transform: translateY(-46rem);
+        transform: translateY(-30rem);
         z-index: -1;
 
     }

@@ -35,7 +35,7 @@
     .contenaireSaga div{
         display: flex;
         flex-direction: column;
-        gap: 2rem;
+        gap: 0.25rem;
     }
 
     @media screen and (max-width: 1100px) {
@@ -54,4 +54,12 @@
             width: 90vw;
     }
 }
+@media screen and (max-width: 280px) {
+    img{
+        width: -webkit-fill-available;
+    }
+}
+
 </style>
+
+

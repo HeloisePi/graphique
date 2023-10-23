@@ -11,6 +11,9 @@
 	</main>
 
 	<footer>
+		<p>
+			© 2023 - Tous droits réservés à la team Pinpin  - Mentions légales
+		</p>
 	</footer>
 </div>
 
@@ -21,4 +24,19 @@
     	background-size: unset;
     	background-repeat: repeat;
 	}
+	footer{
+    border-top: 1px solid black;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	text-align: center;
+
+  }
+
+  @media screen and (max-width: 500px) {
+        footer p {
+            font-size: 14px;
+        }
+    }
 </style>
