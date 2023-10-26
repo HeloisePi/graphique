@@ -17,7 +17,7 @@
              un format novateur où l’écriture s’allie aux croquis, aux illustrations 
              et à la bande dessinée pour emmener le lecteur dans l’imaginaire narratif.</p>
 
-             <Bouton src=#>Voir plus</Bouton>
+             <Bouton src="#">Voir plus</Bouton>
     </div>
 
 </div>

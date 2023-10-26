@@ -11,7 +11,7 @@
             <img class="tableau2" src="/images/tableau2.png" alt="tableau">
             <img class="tableau3" src="/images/tableau3.png" alt="tableau">
         </div>
-        <Bouton src="#">Voir plus</Bouton>
+        <Bouton src="../creationSerge">Voir plus</Bouton>
     </div>
     <img class="line" src="/images/line/line3.svg" alt="line">
 </section>
