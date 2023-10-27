@@ -27,10 +27,10 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
         <p class="right">Je suis peintre amateur autodidacte et j’ai redécouvert en 2020 le bonheur
             de peindre
             et de dessiner sans contrainte, juste pour le plaisir de la création.</p>
+        </div>
+        
     </div>
-            
-</div>
-
+<p class="instruction">Glisse sur le côté pour voir mes peintures 🖌️</p>
 <div class="images">
     
     <Photo
@@ -58,11 +58,12 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
     srcImg3= "/images/photoCreationSerge/img12.png"
     />
 </div>
-<div class="arrow">
-    <img class="arrowLeft" src="/images/logo/arrow.svg" alt="aller a gauche">
-    <img class="arrowRight" src="/images/logo/arrow.svg" alt="aller a droite">
-</div>
     <style>
+
+        .instruction{
+            margin-left: 10rem;
+            margin-bottom: 2rem;
+        }
     .images{
         width: 100vw;
         padding-left: 2rem;
@@ -71,16 +72,7 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
         overflow:scroll;
         scroll-behavior: auto;
         scroll-margin-block-start: 20px;
-    }
-    .arrow{
-        display: flex;
-        justify-content: space-between;
-        width: 100vw;
-
-    }
-
-    .arrowRight{
-        transform: rotate(180deg);
+        overflow-x: scroll;
     }
 
     h1{
@@ -116,9 +108,9 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
     }
     @media screen and (max-width: 700px) {
         .about{
-            height: 80vh; 
-            padding: 0;
-            width: 90vw;
+            height: fit-content;
+            padding: 2rem;
+            width: 100vw;
             margin: auto;
             display: flex;
             justify-content: center;
@@ -136,6 +128,13 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
     p{
         width: fit-content;
     }
+    .images{
+        gap: 2rem;
+    }
+    .instruction{
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
     }
     @media screen and (max-width: 755px) {
         h1{
@@ -144,10 +143,12 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
             
         }
     }
+
     @media screen and (max-width: 555px) {
         h1{
             font-size: 35px;
         }
     }
+
 
 </style>

@@ -66,7 +66,40 @@
 
     .bouton{
         margin-top: 3rem;
-        text-align: end;
         transform: translateX(9rem);
+        width: fit-content;
+    }
+
+    @media screen and (max-width: 700px) {
+        .start,.midel,.end,img{
+            width: 15vw;
+            height: 15vw;
+        }
+        .bouton{
+            margin-top: 1rem;
+            transform: translateX(0);
+        }
+        h2{
+            font-size: 20px;
+            text-wrap: nowrap;
+        }
+        .start{
+            transform: translateX(0.5vw);
+        }
+        .end{
+            transform: translateX(-0.5vw);
+        }
+        .midel{
+            transform: translateY(-1vw);
+            z-index: 3;
+        }
+        .images{
+            margin-top: 1rem;
+            height: fit-content;
+        }
+        section{
+            width: fit-content;
+            height: fit-content;
+        }
     }
 </style>

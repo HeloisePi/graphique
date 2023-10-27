@@ -10,7 +10,7 @@
 .filAriane{
     text-align: center;
     color: black;
-    padding-top: 7rem;
+    padding-top: 5rem;
 }
 a{
     color: black;
