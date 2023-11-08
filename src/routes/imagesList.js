@@ -1,0 +1,2 @@
+export const leshuiles  = ["/images/painting/leshuiles/1.png","/images/painting/leshuiles/2.png","/images/painting/leshuiles/3.png"];
+export const lesnoirsetblancs  = ["/images/painting/lesnoirsetblancs/1.png","/images/painting/lesnoirsetblancs/2.png","/images/painting/lesnoirsetblancs/3.png"];

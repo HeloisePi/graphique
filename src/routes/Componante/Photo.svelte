@@ -5,6 +5,7 @@
     export let srcImg1;
     export let srcImg2;
     export let srcImg3;
+    export let src;
 </script>
 
 <section>
@@ -21,7 +22,7 @@
         </div>
     </div>
     <div class="bouton">
-        <Bouton>Voir plus</Bouton>
+        <Bouton src={src}>Voir plus</Bouton>
     </div>
 </section>
 <style>

@@ -1,6 +1,6 @@
 <script>
 	import Photo from "../Componante/Photo.svelte";
-import FilAriane from "../Componante/utilities/FilAriane.svelte";
+    import FilAriane from "../Componante/utilities/FilAriane.svelte";
 
 </script>
 
@@ -32,12 +32,12 @@ import FilAriane from "../Componante/utilities/FilAriane.svelte";
     </div>
 <p class="instruction">Glisse sur le côté pour voir mes peintures 🖌️</p>
 <div class="images">
-    
     <Photo
     title= "Les noirs et blancs"
     srcImg1= "/images/photoCreationSerge/img1.png"
     srcImg2= "/images/photoCreationSerge/img2.png"
     srcImg3= "/images/photoCreationSerge/img3.png"
+    src='/creationSerge/lesnoirsetblancs'
     />
     <Photo
     title= "Les Huiles "

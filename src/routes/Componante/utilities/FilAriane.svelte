@@ -18,4 +18,9 @@ a{
 a:hover{
     text-decoration: underline;
 }
+p{
+    display: flex;
+    justify-content: center;
+    gap: 0.25rem;
+}
 </style>
