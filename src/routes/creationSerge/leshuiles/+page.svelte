@@ -1,21 +1,21 @@
 <script>
   import FilAriane from '../../Componante/utilities/FilAriane.svelte';
   import GridImage from '../../Componante/utilities/GridImage.svelte';
-  import { lesnoirsetblancs } from '/src/routes/imagesList.js' 
+  import { leshuiles } from '/src/routes/imagesList.js' 
 </script>
   
 <FilAriane 
 pageName = "Les créations de Serge"
 pageSrc = "/creationSerge">
 <p>></p>
-<a href="/creationSerge/lesnoirsetblancs">les noirs et blancs</a>
+<a href="/creationSerge/leshuiles">les huiles</a>
 </FilAriane>
-<h1>Les noirs et blancs</h1>
+<h1>Les Huiles</h1>
 
 <div>
 <GridImage>
-  {#each lesnoirsetblancs as src  }
-  <img src="{src}" alt="tableau Serge Pingitore sur le théme du noir et blanc"> 
+  {#each leshuiles as src  }
+  <img src="{src}" alt="tableau Serge Pingitore sur le théme des huiles"> 
   {/each}
 </GridImage>
 

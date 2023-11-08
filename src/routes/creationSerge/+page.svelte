@@ -44,18 +44,21 @@
     srcImg1= "/images/photoCreationSerge/img4.png"
     srcImg2= "/images/photoCreationSerge/img5.png"
     srcImg3= "/images/photoCreationSerge/img6.png"
+    src='/creationSerge/leshuiles'
     />
     <Photo
     title= "Paysage"
     srcImg1= "/images/photoCreationSerge/img7.png"
     srcImg2= "/images/photoCreationSerge/img8.png"
     srcImg3= "/images/photoCreationSerge/img9.png"
+    src='/creationSerge/paysage'
     />
     <Photo
     title= "Mécanique"
     srcImg1= "/images/photoCreationSerge/img10.png"
     srcImg2= "/images/photoCreationSerge/img11.png"
     srcImg3= "/images/photoCreationSerge/img12.png"
+    src='/creationSerge/mecanique'
     />
 </div>
     <style>
