@@ -1,10 +1,6 @@
 //      COLOR
 
 $gold: #D7B764; 
-$green: #EEFFD7;
-$blue: #3300FF;
-$darkViolet: #BD00FF;
-$grey: #E8E8E8;
 
 //      FONT FAMILY
 
@@ -25,6 +21,17 @@ $ffBranch : 'Branch';
 h1{
     font-family: $ffBranch;
     font-size: 4rem;
+}
+
+@media screen and (max-width: 750px) {
+    h1{     
+        font-size: 3rem;
+    }
+}
+@media screen and (max-width: 400px) {
+    h1{     
+        font-size: 2rem;
+    }
 }
 
 h2{
