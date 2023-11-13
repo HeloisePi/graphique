@@ -2,13 +2,14 @@
 	"name": "teampinpin",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "vite dev",
 		"loadImages": "node loadImgs",
-  		"build": "npm run loadImages && npm run build",
+		"prebuild": "npm run loadImages", 
+		"build": "vite build",
+		"dev": "vite dev",
 		"preview": "vite preview",
 		"lint": "prettier --plugin-search-dir . --check .",
 		"format": "prettier --plugin-search-dir . --write ."
-	},
+	  },
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
 		"@neoconfetti/svelte": "^1.0.0",
