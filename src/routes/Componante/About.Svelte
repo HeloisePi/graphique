@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<section>
+<section id="about">
     <h2>Qui sommes nous ?</h2>
     <div class="people">
 
@@ -28,6 +28,7 @@
 <style>
 
     section{
+        padding-top: 10rem;
         width: 40vw;
         margin: auto;
         display: flex;

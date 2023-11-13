@@ -3,12 +3,20 @@
 
 <div class="blur"></div>
 <header>
-		<img src="/images/logo.png" alt="logo">	
+		<a href="../../"><img src="/images/logo.png" alt="logo"></a>
 		<div class="link">
-			<p>La Saga</p>
-			<p>Les Créations de Serge</p>
-			<p>Qui sommes nous ?</p>
-			<p>Contact</p>
+			<a href="../saga">
+				<p>La Saga</p>
+			</a>
+			<a href="../creationSerge">
+				<p>Les Créations de Serge</p>
+			</a>
+			<a href="../#about">
+				<p>Qui sommes nous ?</p>
+			</a>
+			<a href="../#contact">
+				<p>Contact</p>
+			</a>
 		</div>
 </header>
 
@@ -47,4 +55,8 @@
         filter: blur(10px);
         backdrop-filter: blur(10px);
     }
+
+	a{
+		color: black;
+	}
 </style>

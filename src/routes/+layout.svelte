@@ -1,10 +1,16 @@
 <script>
+	import HeaderMobile from './Componante/HeaderMobile.svelte';
 	import Header from './Header.svelte';
 	import './styles.css';
 </script>
 
 <div class="app">
-	<Header />
+	<div class="headerdesktop">
+		<Header />
+	</div>
+	<div class="headerMobile">
+		<HeaderMobile />
+	</div>
 
 	<main>
 		<slot />
@@ -33,10 +39,22 @@
 	text-align: center;
 
   }
+  .headerMobile{
+			display: none;
+		}
 
   @media screen and (max-width: 500px) {
         footer p {
             font-size: 14px;
         }
+    }
+	@media screen and (max-width: 870px) {
+		.headerMobile{
+			display: block;
+		}
+		.headerdesktop{
+			display: none;
+		}
+        
     }
 </style>

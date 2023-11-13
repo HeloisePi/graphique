@@ -2,7 +2,7 @@
 	import Bouton from "./utilities/Bouton.svelte";
 
 </script>
-<section>
+<section id="creationSerge">
 
     <div class="contenaireCreationSerge">
         <h2>Les Créations de Serge</h2>
@@ -16,6 +16,9 @@
     <img class="line" src="/images/line/line3.svg" alt="line">
 </section>
 <style>
+    section{
+        padding-top: 10rem;
+    }
 
     h2{
         text-align: center;

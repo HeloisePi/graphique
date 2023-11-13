@@ -2,7 +2,8 @@
 
 </script>
 
-<section>
+<section id="contact">
+
     <img class="line" src="/images/line/line1.svg" alt="Line">
     <h2>Contact</h2>
     <p>
@@ -87,6 +88,7 @@
 
 <style>
     section{
+        padding-top: 10rem;
         width: 40vw;
         margin: auto;
         display: flex;

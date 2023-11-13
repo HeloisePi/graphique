@@ -3,7 +3,7 @@
 
 </script>
 
-<div class="contenaireSaga">
+<section class="contenaireSaga" id="saga">
     <img src="/images/book.png" alt="image livre saga">
     <div>
         <h2>La Saga QUATRE</h2>
@@ -20,9 +20,10 @@
              <Bouton src="/saga">Voir plus</Bouton>
     </div>
 
-</div>
+</section>
 <style>
     .contenaireSaga{
+        padding-top: 10rem;
         display: flex;
         gap: 4rem;
         border: 1px solid  #D7B764;
