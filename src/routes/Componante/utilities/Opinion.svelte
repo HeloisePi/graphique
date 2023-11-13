@@ -5,7 +5,7 @@
 </script>
 
 <div>
-    <a href="{link}"><img src="{srcImg}" alt="photo de profil">
+    <a href="{link}"><img src="{srcImg}" alt="De profil">
     <p>{name}</p></a>
 </div>
 
