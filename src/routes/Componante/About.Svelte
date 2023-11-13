@@ -6,11 +6,11 @@
     <div class="people">
 
         <div class="">
-            <img src="/images/mariane.webp" alt="Photo de mariane">
+            <img src="/images/mariane.webp" alt="Mariane" />
             <p>Mariane Gahengi</p>
         </div>
         <div class="">
-            <img src="/images/serge.webp" alt="Photo de serge">
+            <img src="/images/serge.webp" alt="Serge"/>
             <p>Serge Pingitore</p>
         </div>
     </div>

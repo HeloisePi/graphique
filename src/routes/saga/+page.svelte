@@ -317,18 +317,7 @@
             grid-template-columns: 1fr;
         }
     }
-        .buttonMoreOpinion{
-            display: flex;
-            align-items: center;
-            transition: 500ms;
-            cursor: pointer;
-        }
-        .buttonMoreOpinion:hover img{
-            transform: rotate(-40deg);
-        }
-        .buttonMoreOpinion:target img{
-            transform: rotate(-40deg);
-        }
+        
         section{
             width: 80vw;
             margin: 0 auto;

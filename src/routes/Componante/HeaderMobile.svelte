@@ -113,45 +113,6 @@ onMount(() => {
         z-index: 100;
       }
         
-        
-      .menu-line{
-        pointer-events: none;
-        width: 100%;
-        height: 3px;
-        position: absolute;
-        -webkit-transition: all .25s;
-        transition: all .25s;
-        top: 10px;
-        background-color: black;
-      }
-        .menu-lin::before{
-          content: '';
-          height: 3px;
-          width: 100%;
-          position: absolute;
-          -webkit-transform-origin: left ;
-          transform-origin: left ;
-          -webkit-transition: -webkit-transform .25s;
-          -webkit-transition: all .25s;
-          transition: ease-in .25s;
-          top: 10px;
-          background-color: black;
-        }
-        .menu-line::after{
-          content: '';
-          height: 3px;
-          width: 100%;
-          position: absolute;
-          -webkit-transform-origin:  left;
-          transform-origin: left;
-          -webkit-transition: -webkit-transform .25s;
-          -webkit-transition: all .25s;
-          transition: all .25s;
-          top: -10px;
-          background-color: black;
-        }
-      
-      
 
       .logo {
         width: 4rem;
