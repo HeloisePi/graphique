@@ -4,7 +4,7 @@
 </script>
 
 <section class="contenaireSaga" id="saga">
-    <img src="/images/book.png" alt="image livre saga">
+    <img src="/images/book.webp" alt="image livre saga">
     <div>
         <h2>La Saga QUATRE</h2>
         <p>QUATRE, romans de fantasy, suit les aventures de Rashele, Dyane,

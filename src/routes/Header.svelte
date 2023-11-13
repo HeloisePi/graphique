@@ -3,7 +3,7 @@
 
 <div class="blur"></div>
 <header>
-		<a href="../../"><img src="/images/logo.png" alt="logo"></a>
+		<a href="../../"><img src="/images/logo.webp" alt="logo"></a>
 		<div class="link">
 			<a href="../saga">
 				<p>La Saga</p>
@@ -29,7 +29,7 @@
 		border-bottom: 1px solid black ;
 		position: fixed;
 		width: 100vw;
-		z-index: 3;
+		z-index: 4;
 
 		
 	}
@@ -43,7 +43,7 @@
 		}
 
 		.blur{
-        z-index: 1;
+        z-index: 3;
         position: fixed;
         top: 0;
         width: 100vw;

@@ -17,7 +17,7 @@ fs.readdir(imagesDirectory, (err, files) => {
         console.error('Erreur lors de la lecture du dossier des images', err);
         return;
       }
-      let imageFiles = files.filter(file => /\.(jpg|png|gif|jpeg)$/.test(file)); 
+      let imageFiles = files.filter(file => /\.(jpg|png|gif|jpeg|webp)$/.test(file)); 
       let data = imageFiles.map((imageFile) => (`/images/painting/${theme}/${imageFile}`));  
       let imagesList = JSON.stringify(data);
       fs.appendFileSync('src/imagesList.js', `export const ${theme}  = ${imagesList};`, 'utf-8');

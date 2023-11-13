@@ -44,7 +44,7 @@
         srcBuy="https://www.amazon.fr/m%C3%A9daillons-oubli%C3%A9s-Mariane-Gahengi/dp/2384411195/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=Z11S9AI77GKY&keywords=les+m%C3%A9daillons+oubli%C3%A9s&qid=1683803969&sprefix=les+m%C3%A9daillons+oubli%C3%A9s,aps,119&sr=8-1"
         link=""
         >
-        <img src="/images/book.png" alt="couverture tome 1">
+        <img src="/images/book.webp" alt="couverture tome 1">
     </Tome>
     
     <Tome 
@@ -54,7 +54,7 @@
     srcBuy=""
     link=""
     >
-    <slop> <img src="/images/saga/tome2.png" alt="couverture tome 2">
+    <slop> <img src="/images/saga/tome2.webp" alt="couverture tome 2">
         <p>En cours d’écriture</p></slop>
     </Tome>
     <div class="">
@@ -97,182 +97,182 @@
         <div class="allOpinion">
             
             <Opinion 
-            srcImg="/images/opinion/1.png"
+            srcImg="/images/opinion/1.webp"
             name="Angélique"
             link="https://booknode.com/quatre_tome_1_les_medaillons_oublies_03458466"
             />
             <Opinion 
-            srcImg="/images/opinion/2.png"
+            srcImg="/images/opinion/2.webp"
             name="la_bibiotheque_de_ju"
             link="https://www.instagram.com/p/Cu4x9pYKeXS/"
             />
             <Opinion 
-            srcImg="/images/opinion/3.png"
+            srcImg="/images/opinion/3.webp"
             name="Valérie"
             link="https://www.instagram.com/reel/Cu2Eru1RQUU/"
             />
             <Opinion 
-            srcImg="/images/opinion/4.png"
+            srcImg="/images/opinion/4.webp"
             name="Clara"
             link="https://petitehirondelle.fr/2023/08/02/quatre-tome-1-les-medaillons-oublies-mariane-gahengi-maia/"
             />
             <Opinion 
-            srcImg="/images/opinion/5.png"
+            srcImg="/images/opinion/5.webp"
             name="MarieFourmi"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3555712"
             />
             <Opinion 
-            srcImg="/images/opinion/6.png"
+            srcImg="/images/opinion/6.webp"
             name="Atraxi"
             link="https://www.instagram.com/p/Cq7e_VfqIii/"
             />
             <Opinion 
-            srcImg="/images/opinion/7.png"
+            srcImg="/images/opinion/7.webp"
             name="lireetpartage"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3316007"
             />
             <Opinion 
-            srcImg="/images/opinion/8.png"
+            srcImg="/images/opinion/8.webp"
             name="Christine
             Le Bouffo"
             link="https://www.calameo.com/read/0065702885c591add7a66"
             />
             <Opinion 
-            srcImg="/images/opinion/9.png"
+            srcImg="/images/opinion/9.webp"
             name="bulles de livres"
             link="https://www.instagram.com/p/CkbuixsruJQ/"
             />
             <Opinion 
-            srcImg="/images/opinion/10.png"
+            srcImg="/images/opinion/10.webp"
             name="sylvicha"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3241566"
             />
             <Opinion 
-            srcImg="/images/opinion/11.png"
+            srcImg="/images/opinion/11.webp"
             name="Navol"
             link="https://www.facebook.com/photo/?fbid=653019436391805&set=a.263320925361660"
             />
             <Opinion 
-            srcImg="/images/opinion/12.png"
+            srcImg="/images/opinion/12.webp"
             name="Mi_and_my_books"
             link="https://www.instagram.com/p/CpxNqxzKv_Z/"
             />
             <Opinion 
-            srcImg="/images/opinion/13.png"
+            srcImg="/images/opinion/13.webp"
             name="Marina_42"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3311295"
             />
             <Opinion 
-            srcImg="/images/opinion/14.png"
+            srcImg="/images/opinion/14.webp"
             name="Codrick 
             S. Mutima"
             link="https://m.facebook.com/story.php?story_fbid=pfbid02Pm2vnxsDSxgxBWtohi2t4EARcjyMbypbZyC1AyzmAimXtTt6F3XM8wLZTH4dFQfNl&id=100083027117728"
             />
             <Opinion 
-            srcImg="/images/opinion/15.png"
+            srcImg="/images/opinion/15.webp"
             name="Critiques de 
             Margaux"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3158871"
             />
             <Opinion 
-            srcImg="/images/opinion/16.png"
+            srcImg="/images/opinion/16.webp"
             name="Lila Deslys"
             link="https://lila-deslys.blogspot.com/2022/09/chronique-quatre-1-mariane-gahengi.html"
             />
             <Opinion 
-            srcImg="/images/opinion/17.png"
+            srcImg="/images/opinion/17.webp"
             name="Dubois Gwenola"
             link="https://booknode.com/quatre_tome_1_les_medaillons_oublies_03458466/commentaires/23889611"
             />
             <Opinion 
-            srcImg="/images/opinion/18.png"
+            srcImg="/images/opinion/18.webp"
             name="bookread"
             link="https://www.tiktok.com/@.bookread/video/7227892648252640539"
             />
             <Opinion 
-            srcImg="/images/opinion/19.png"
+            srcImg="/images/opinion/19.webp"
             name="lectures_decha"
             link="https://lecturesdecharlotteword.wordpress.com/2022/09/25/les-medaillons-oublies-de-mariane-gahengi/"
             />
             <Opinion 
-            srcImg="/images/opinion/20.png"
+            srcImg="/images/opinion/20.webp"
             name="bull_livres"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3289089"
             />
             <Opinion 
-            srcImg="/images/opinion/21.png"
+            srcImg="/images/opinion/21.webp"
             name="randy_tout"
             link="https://gleeph.com/share/review/9782384411191-7B36756D831D4C0192129F9A7625000D?_branch_match_id=1187634126043349724&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nL1kvPSU0tyNDLSy3RL400M8jwNU8MqUoCAMDYkNQiAAAA"
             />
             <Opinion 
-            srcImg="/images/opinion/22.png"
+            srcImg="/images/opinion/22.webp"
             name="Nathalie Cussonnier"
             link="https://www.facebook.com/photo/?fbid=206701555551770&set=a.114106001477993"
             />
             <Opinion 
-            srcImg="/images/opinion/23.png"
+            srcImg="/images/opinion/23.webp"
             name="poudredenuage"
             link="https://www.instagram.com/p/CsqK3S-qTqv/?img_index=1"
             />
             <Opinion 
-            srcImg="/images/opinion/24.png"
+            srcImg="/images/opinion/24.webp"
             name="Sous la plume
             de Garance"
             link="http://souslaplumedegarance.hautetfort.com/archive/2023/05/30/les-medaillon-oublies-tome-1-un-roman-de-fantasy-initiatique-6445559.html#more"
             />
             <Opinion 
-            srcImg="/images/opinion/34.png"
+            srcImg="/images/opinion/34.webp"
             name="Leslivresdepatmol"
             link="https://www.instagram.com/p/Ct6KjCILnhM/"
             />
             <Opinion 
-            srcImg="/images/opinion/25.png"
+            srcImg="/images/opinion/25.webp"
             name="Cassyleedria"
             link="https://www.tiktok.com/@sarahsandra13/video/7248865921186483483?is_from_webapp=1&web_id=7248153000173471259"
             />
             <Opinion 
-            srcImg="/images/opinion/26.png"
+            srcImg="/images/opinion/26.webp"
             name="valoulauwers"
             link="https://www.tiktok.com/@valouvalou476/video/7249349193632943387?_r=1&_t=8dW5vuhtkZm"
             />
             <Opinion 
-            srcImg="/images/opinion/27.png"
+            srcImg="/images/opinion/27.webp"
             name="bibli_olivres"
             link="https://www.instagram.com/p/CuFoRPqtG9K/"
             />
             <Opinion 
-            srcImg="/images/opinion/28.png"
+            srcImg="/images/opinion/28.webp"
             name="la.liseuse.en.serie
             
             "
             link="https://www.instagram.com/p/CuMC9l9qFnl/"
             />
             <Opinion 
-            srcImg="/images/opinion/29.png"
+            srcImg="/images/opinion/29.webp"
             name="Livresduracoon"
             link="https://www.instagram.com/p/Cw9pObDqPuF/"
             />
             <Opinion 
-            srcImg="/images/opinion/30.png"
+            srcImg="/images/opinion/30.webp"
             name="onionidra
             
             "
             link="https://www.instagram.com/p/Cw-xS2GMU7T/"
             />
             <Opinion 
-            srcImg="/images/opinion/31.png"
+            srcImg="/images/opinion/31.webp"
             name="LaBulleCoco"
             link="https://www.babelio.com/livres/Gahengi-Les-medaillons-oublies/1446538/critiques/3622060?modifier=1"
             />
             <Opinion 
-            srcImg="/images/opinion/32.png"
+            srcImg="/images/opinion/32.webp"
             name="dans_les_yeux_de_mallia
             
             "
             link="https://www.instagram.com/p/Cyz-T3iKkNb/"
             />
             <Opinion 
-            srcImg="/images/opinion/33.png"
+            srcImg="/images/opinion/33.webp"
             name="Traicy Books"
             link="https://www.instagram.com/p/Cy9-D5DupvQ/?img_index=1"
             />

@@ -37,7 +37,7 @@ onMount(() => {
 <div class="blur"></div>
 <header class="headermobile">
     <div class="headershow">
-      <img class="logo" src="/images/logo.png" alt="logo" />
+      <a href="../../"><img class="logo" src="/images/logo.webp" alt="logo" /></a>
       <div class="toggle"></div>
       <div class="menu">
         <img class="hamburger active" src="/images/logo/hamburger.svg" alt="hamburger menu" />
@@ -91,9 +91,10 @@ onMount(() => {
       align-items: center;
       border: 1px solid black;
       padding: 1rem;
+      z-index: 4;
     }
     .blur{
-        z-index: 1;
+        z-index: 3;
         position: fixed;
         top: 0;
         width: 100vw;
@@ -172,24 +173,9 @@ onMount(() => {
       flex-direction: column;
       gap: 1rem;
     }
-  
 
-  section .headermobile .headershow .is-close 
-    .menu-line{
-      background-color: black;
+    a{
+      color: black;
     }
-    .menu-line::before{
-        content: '';
-          width: 28px;
-          transform: rotate(-45deg);
-          opacity: 1;
-      }
-      
-      .menu-line::after{
-        content: '';
-          width: 28px;
-          transform: rotate(45deg);
-          opacity: 1;
-      }
     
 </style>

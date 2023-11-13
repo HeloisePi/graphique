@@ -34,30 +34,30 @@
 <div class="images">
     <Photo
     title= "Les noirs et blancs"
-    srcImg1= "/images/photoCreationSerge/img1.png"
-    srcImg2= "/images/photoCreationSerge/img2.png"
-    srcImg3= "/images/photoCreationSerge/img3.png"
+    srcImg1= "/images/photoCreationSerge/img1.webp"
+    srcImg2= "/images/photoCreationSerge/img2.webp"
+    srcImg3= "/images/photoCreationSerge/img3.webp"
     src='/creationSerge/lesnoirsetblancs'
     />
     <Photo
     title= "Les Huiles "
-    srcImg1= "/images/photoCreationSerge/img4.png"
-    srcImg2= "/images/photoCreationSerge/img5.png"
-    srcImg3= "/images/photoCreationSerge/img6.png"
+    srcImg1= "/images/photoCreationSerge/img4.webp"
+    srcImg2= "/images/photoCreationSerge/img5.webp"
+    srcImg3= "/images/photoCreationSerge/img6.webp"
     src='/creationSerge/leshuiles'
     />
     <Photo
     title= "Paysage"
-    srcImg1= "/images/photoCreationSerge/img7.png"
-    srcImg2= "/images/photoCreationSerge/img8.png"
-    srcImg3= "/images/photoCreationSerge/img9.png"
+    srcImg1= "/images/photoCreationSerge/img7.webp"
+    srcImg2= "/images/photoCreationSerge/img8.webp"
+    srcImg3= "/images/photoCreationSerge/img9.webp"
     src='/creationSerge/paysage'
     />
     <Photo
     title= "Mécanique"
-    srcImg1= "/images/photoCreationSerge/img10.png"
-    srcImg2= "/images/photoCreationSerge/img11.png"
-    srcImg3= "/images/photoCreationSerge/img12.png"
+    srcImg1= "/images/photoCreationSerge/img10.webp"
+    srcImg2= "/images/photoCreationSerge/img11.webp"
+    srcImg3= "/images/photoCreationSerge/img12.webp"
     src='/creationSerge/mecanique'
     />
 </div>

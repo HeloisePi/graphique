@@ -15,7 +15,7 @@
             <img  src="{srcImg1}" alt="image1">
         </div>
         <div class="midel">
-            <img  src="{srcImg2}" alt="image2">
+            <img  class="midelImg" src="{srcImg2}" alt="image2">
         </div>
         <div class="end">
             <img  src="{srcImg3}" alt="image3">
@@ -62,7 +62,11 @@
     }
     .midel{
         transform: translateY(-3rem);
-        z-index: 3;
+        z-index: 1;
+    }
+    .midelImg{
+        z-index: 0;
+        position: relative;
     }
 
     .bouton{
@@ -92,7 +96,7 @@
         }
         .midel{
             transform: translateY(-1vw);
-            z-index: 3;
+            z-index: 1;
         }
         .images{
             margin-top: 1rem;
