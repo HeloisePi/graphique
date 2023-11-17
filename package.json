@@ -2,11 +2,9 @@
 	"name": "teampinpin",
 	"version": "0.0.1",
 	"scripts": {
-		"build": "npm run build",
-		"dev": "npm run dev",
-		"preview": "npm run preview",
-		"lint": "prettier --plugin-search-dir . --check .",
-		"format": "prettier --plugin-search-dir . --write ."
+		"dev": "vire dev",
+		"build": "vire build",
+		"preview": "vire preview"
 	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
