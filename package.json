@@ -2,7 +2,7 @@
 	"name": "teampinpin",
 	"version": "0.0.1",
 	"scripts": {
-		"loadImages": "node loadImgs",
+		//"loadImages": "node loadImgs",
 		//"prebuild": "npm run loadImages",
 		"build": "npm run build",
 		"dev": "npm run dev",
