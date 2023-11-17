@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"scripts": {
 		"loadImages": "node loadImgs",
-		"prebuild": "npm run loadImages",
+		//"prebuild": "npm run loadImages",
 		"build": "npm run build",
 		"dev": "npm run dev",
 		"preview": "npm run preview",
