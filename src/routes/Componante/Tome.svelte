@@ -1,5 +1,4 @@
 <script>
-	import Bouton from "./utilities/Bouton.svelte";
 	import SagaTitle from "./utilities/SagaTitle.svelte";
 
     export let tomeNumber;
