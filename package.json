@@ -2,25 +2,20 @@
 	"name": "teampinpin",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "npm run dev",
-		"build": "npm run build",
-		"preview": "npm run preview",
-		"lint": "prettier --plugin-search-dir . --check .",
-		"format": "prettier --plugin-search-dir . --write ."
+	  "dev": "vite dev",
+	  "build": "vite build",
+	  "preview": "vite preview"
 	},
 	"devDependencies": {
-		"@sveltejs/kit": "^1.20.4",
-		"prettier": "^2.8.0",
-		"sass": "^1.69.4",
-		"svelte": "^4.0.5",
-		"vite": "^4.4.2"
+	  "@fontsource/fira-mono": "^4.5.10",
+	  "@neoconfetti/svelte": "^1.0.0",
+	  "@sveltejs/adapter-auto": "^2.0.0",
+	  "@sveltejs/kit": "^1.20.4",
+	  "node-sass": "^9.0.0",
+	  "sass": "^1.69.2",
+	  "svelte": "^4.0.5",
+	  "vite": "^4.4.2"
 	},
-	"type": "module",
-	"vite": {
-		"build": {
-			"ssr": {
-				"skipAnalysis": true
-			}
-		}
-	}
-}
+	"type": "module"
+  }
+  
