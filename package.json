@@ -9,24 +9,13 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@fontsource/fira-mono": "^4.5.10",
-		"@neoconfetti/svelte": "^1.0.0",
-		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/adapter-netlify": "^2.0.8",
-		"@sveltejs/adapter-static": "^2.0.3",
-		"@sveltejs/adapter-vercel": "^1.0.2",
 		"@sveltejs/kit": "^1.20.4",
 		"prettier": "^2.8.0",
-		"prettier-plugin-svelte": "^2.10.1",
 		"sass": "^1.69.4",
-		"stream": "^0.0.2",
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
 	"type": "module",
-	"dependencies": {
-		"scss": "^0.2.4"
-	},
 	"vite": {
 		"build": {
 			"ssr": {
