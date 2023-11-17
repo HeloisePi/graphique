@@ -4,9 +4,9 @@
 	"scripts": {
 		"loadImages": "node loadImgs",
 		"prebuild": "npm run loadImages",
-		"build": "vite build",
-		"dev": "vite dev",
-		"preview": "vite preview",
+		"build": "npm run build",
+		"dev": "npm run dev",
+		"preview": "npm run preview",
 		"lint": "prettier --plugin-search-dir . --check .",
 		"format": "prettier --plugin-search-dir . --write ."
 	},
