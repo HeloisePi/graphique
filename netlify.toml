@@ -1,0 +1,3 @@
+[build]
+  publish = "build" # ou le répertoire où se trouve votre build
+  command = "npm run build" # la commande pour construire votre projet
