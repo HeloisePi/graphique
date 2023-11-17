@@ -1,3 +1,5 @@
+<script></script>
+
 <section id="about">
     <h2>Qui sommes nous ?</h2>
     <div class="people">
