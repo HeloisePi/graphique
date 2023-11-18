@@ -109,7 +109,65 @@
 </section>
 
 <style>
-    section{
+            #about{
+        padding-top: 10rem;
+        width: 40vw;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    #about h2{
+        text-align: center;
+    }
+    #about .people{
+         display: flex;
+         justify-content: space-between;
+    }
+
+    #about .people div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #about .people p{
+        text-align: center;
+    }
+
+    #about img{
+        
+        width: 15vw;
+    }
+
+    @media screen and (max-width: 1100px) {
+        #about{
+            width: 50vw;
+    }
+}
+    @media screen and (max-width: 800px) {
+        #about{
+            width: 60vw;
+    }
+    #about img{
+        
+        width: 20vw;
+    }
+}
+    @media screen and (max-width: 600px) {
+        #about{
+            width: 70vw;
+    }
+
+}
+@media screen and (max-width: 490px) {
+    #about{
+            width: 90vw;
+    }
+}
+
+    #contact{
         padding-top: 10rem;
         width: 40vw;
         margin: auto;
@@ -117,63 +175,63 @@
         flex-direction: column;
         gap: 2rem;
     }
-    .line{
+    #contact .line{
         position: absolute;
         width: 100vw;
         left: 0;
         transform: translateY(-15rem);
     }
-    h2{
+    #contact h2{
         text-align: center;
     }
-    a{
+    #contact a{
         text-align: center;
         color: black;
     }
 
-    p{
+    #contact p{
         margin-bottom: 1rem;
     }
-    .logo{
+    #contact .logo{
         display: flex;
         gap: 2rem;
     }
 
-    .sale div{
+    #contact .sale div{
         display: flex;
         align-items: end;
         
     }
 @media screen and (max-width: 1100px) {
-        section{
+    #contact {
             width: 50vw;
     }
 }
     @media screen and (max-width: 800px) {
-        section{
+        #contact {
             width: 60vw;
     }
 }
     @media screen and (max-width: 600px) {
-        section{
+        #contact{
             width: 70vw;
     }
 
 }
 @media screen and (max-width: 490px) {
-        section{
+    #contact{
             width: 90vw;
     }
-    .logoImg{
+    #contact .logoImg{
         width: 2rem;
     }
-    .descriptionLogo{
+    #contact .descriptionLogo{
         font-size: 12px;
     }
-    .linkExterneImg{
+    #contact .linkExterneImg{
         width: 0.5rem;
     }
-    .logo{
+    #contact .logo{
         gap: 1rem;
     }
 }
