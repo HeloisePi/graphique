@@ -71,6 +71,7 @@
         }
     .images{
         width: 100vw;
+        height: fit-content;
         padding-left: 2rem;
         padding-right: 2rem;
         display: flex;
