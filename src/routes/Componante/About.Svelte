@@ -22,3 +22,67 @@
 </section>
 
 
+<style>
+        section{
+        padding-top: 10rem;
+        width: 40vw;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    h2{
+        text-align: center;
+    }
+    .people{
+         display: flex;
+         justify-content: space-between;
+    }
+
+    .people div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .people p{
+        text-align: center;
+    }
+
+    img{
+        
+        width: 15vw;
+    }
+
+    @media screen and (max-width: 1100px) {
+        section{
+            width: 50vw;
+    }
+}
+    @media screen and (max-width: 800px) {
+        section{
+            width: 60vw;
+    }
+    img{
+        
+        width: 20vw;
+    }
+}
+    @media screen and (max-width: 600px) {
+        section{
+            width: 70vw;
+    }
+
+}
+@media screen and (max-width: 490px) {
+        section{
+            width: 90vw;
+    }
+}
+    
+
+
+
+
+</style>
