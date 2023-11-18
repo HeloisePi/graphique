@@ -6,7 +6,9 @@
 
 <svelte:head>
 	<title>Les Création de Serge</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content=" Mon inspiration trouve sa source dans ce qui m’émeut : 
+    l’expression d’un regard, la tendresse d’un visage ou encore l’atmosphère
+    d’un paysage." />
 </svelte:head>
 
 <FilAriane 

@@ -8,8 +8,9 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Team PinPin</title>
+	<meta name="description" content="“Les deux arts d’écrire et de dessiner
+	sont naturellement associés.” (Charles Dickens)" />
 </svelte:head>
 
 <section>

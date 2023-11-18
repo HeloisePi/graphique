@@ -10,7 +10,9 @@
 
 <svelte:head>
 	<title>La Saga Illustrée</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Laissez-vous entraîner dans
+    un univers captivant où réel et imaginaire se côtoient dans
+    une épopée fascinante." />
 </svelte:head>
 
 <FilAriane
