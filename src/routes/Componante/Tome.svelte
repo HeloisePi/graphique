@@ -6,8 +6,6 @@
     export let question;
     export let srcBuy="";
     export let link="";
-
-    console.log(link);
 </script>
 <div class="tome">
     <SagaTitle>Tome {tomeNumber}</SagaTitle>
