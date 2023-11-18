@@ -2,7 +2,7 @@
 	import Contact from "./Componante/Contact.svelte";
 	import CreationSerge from "./Componante/CreationSerge.svelte";
 	import Hero from "./Componante/Hero.svelte";
-	import About from "./Componante/About.Svelte";
+	
 	import Saga from "./Componante/Saga.svelte";
 
 </script>
@@ -16,7 +16,7 @@
 	<Hero />
 	<Saga />
 	<CreationSerge />
-	<About />
+
 	<Contact />
 </section>
 
