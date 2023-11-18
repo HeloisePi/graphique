@@ -1,18 +1,12 @@
 import { c as create_ssr_component, v as validate_component } from "../../chunks/ssr.js";
 import { B as Bouton } from "../../chunks/Bouton.js";
-const About_svelte_svelte_type_style_lang = "";
-const css$5 = {
-  code: "section.svelte-tja097.svelte-tja097{padding-top:10rem;width:40vw;margin:auto;display:flex;flex-direction:column;gap:3rem}h2.svelte-tja097.svelte-tja097{text-align:center}.people.svelte-tja097.svelte-tja097{display:flex;justify-content:space-between}.people.svelte-tja097 div.svelte-tja097{display:flex;flex-direction:column;align-items:center}.people.svelte-tja097 p.svelte-tja097{text-align:center}img.svelte-tja097.svelte-tja097{width:15vw}@media screen and (max-width: 1100px){section.svelte-tja097.svelte-tja097{width:50vw}}@media screen and (max-width: 800px){section.svelte-tja097.svelte-tja097{width:60vw}img.svelte-tja097.svelte-tja097{width:20vw}}@media screen and (max-width: 600px){section.svelte-tja097.svelte-tja097{width:70vw}}@media screen and (max-width: 490px){section.svelte-tja097.svelte-tja097{width:90vw}}",
-  map: null
-};
 const About = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  $$result.css.add(css$5);
-  return `<section id="about" class="svelte-tja097" data-svelte-h="svelte-1ufvs8m"><h2 class="svelte-tja097">Qui sommes nous ?</h2> <div class="people svelte-tja097"><div class=" svelte-tja097"><img src="/images/mariane.webp" alt="Mariane" class="svelte-tja097"> <p class="svelte-tja097">Mariane Gahengi</p></div> <div class=" svelte-tja097"><img src="/images/serge.webp" alt="Serge" class="svelte-tja097"> <p class="svelte-tja097">Serge Pingitore</p></div></div> <p>La Team Pinpin est 
+  return `<section id="about" data-svelte-h="svelte-1ufvs8m"><h2>Qui sommes nous ?</h2> <div class="people"><div class=""><img src="/images/mariane.webp" alt="Mariane"> <p>Mariane Gahengi</p></div> <div class=""><img src="/images/serge.webp" alt="Serge"> <p>Serge Pingitore</p></div></div> <p>La Team Pinpin est 
         composée d’un frère et d’une soeur ainsi que de la fille de cette dernière.
          En travaillant ensemble sur leur projet littéraire et artistique, ils ont
           pu créer des histoires plus vivantes et mémorables, ainsi que renforcer les
            thèmes et les émotions présents dans le texte. 
-        Team Pinpin est le résultat d’une expérience familiale enrichissante et complice.</p> </section>`;
+        Team Pinpin est le résultat d’une expérience familiale enrichissante et complice.</p></section>`;
 });
 const Contact_svelte_svelte_type_style_lang = "";
 const css$4 = {

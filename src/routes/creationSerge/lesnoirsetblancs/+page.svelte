@@ -15,7 +15,7 @@ pageSrc = "/creationSerge">
 <div>
 <GridImage>
   {#each lesnoirsetblancs as src  }
-  <!-- <img src="{src}" alt="tableau Serge Pingitore sur le théme du noir et blanc">  -->
+  <img src="{src}" alt="tableau Serge Pingitore sur le théme du noir et blanc"> 
   {/each}
 </GridImage>
 
