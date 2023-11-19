@@ -22,7 +22,7 @@
     }
     img{
         width: 15rem;
-        height: fit-content;
+        height: auto;
     }
     p{
         max-width: 700px;
