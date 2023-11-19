@@ -41,7 +41,7 @@
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de la team Pinpin">
                         <p class="descriptionLogo">Linkedin <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="mariane.gahengi@gmail.com">
+                    <a href="teampinpin@gmail.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail d'un des membres de la team Pinpin">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -91,7 +91,7 @@
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail de Mariane Gahengi">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="https://www.linkedin.com/in/marianegahengi/">
+                    <a href="https://www.linkedin.com/in/serge-pingitore-80766894/">
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de Mariane Gahengi">
                         <p class="descriptionLogo">LinkedIn <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -99,7 +99,7 @@
                         <img class="logoImg" src="images/logo/facebook.svg" alt="facebook de Mariane Gahengi">
                         <p class="descriptionLogo">Facebook <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="https://www.instagram.com/marianegahengi/">
+                    <a href="https://www.instagram.com/serge_pingitore/">
                         <img class="logoImg" src="images/logo/instagram.svg" alt="instagram de Mariane Gahengi">
                         <p class="descriptionLogo">Instagram <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>

@@ -87,7 +87,7 @@ onMount(() => {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border: 1px solid black;
+      border-bottom: 1px solid black;
       padding: 1rem;
       z-index: 4;
     }

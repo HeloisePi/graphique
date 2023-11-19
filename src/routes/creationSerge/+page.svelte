@@ -71,13 +71,13 @@
         }
     .images{
         width: 100vw;
-        height: auto;
+        height: 500px;
         padding-left: 2rem;
         padding-right: 2rem;
         display: flex;
-        overflow:scroll;
         scroll-behavior: auto;
         scroll-margin-block-start: 20px;
+        overflow-y: unset;
         overflow-x: scroll;
     }
 
@@ -136,6 +136,7 @@
     }
     .images{
         gap: 2rem;
+        height: 300px;
     }
     .instruction{
         margin-left: 50%;

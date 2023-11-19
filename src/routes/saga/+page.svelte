@@ -43,7 +43,7 @@
         Saint-Pétersbourg et l’Italie, mais aussi en Nouvelle-Zélande. "
         question="Que représentent ces médaillons ? Peut-être cela a-t-il un lien avant la légende ancienne que la vieille chamane raconte à sa petite fille au début du roman ?
         Êtes-vous prêts à découvrir leur histoire ?"
-        srcBuy="https://www.amazon.fr/m%C3%A9daillons-oubli%C3%A9s-Mariane-Gahengi/dp/2384411195/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=Z11S9AI77GKY&keywords=les+m%C3%A9daillons+oubli%C3%A9s&qid=1683803969&sprefix=les+m%C3%A9daillons+oubli%C3%A9s,aps,119&sr=8-1"
+        srcBuy="https://www.editions-maia.com/livre/quatre-1-les-medaillons-oublies/"
         link=""
         >
         <img src="/images/book.webp" alt="couverture tome 1">

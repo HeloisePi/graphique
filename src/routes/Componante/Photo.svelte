@@ -32,7 +32,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 44vh;
+        height: 400px;
+        overflow-y: unset;
 
     }
     h2{
