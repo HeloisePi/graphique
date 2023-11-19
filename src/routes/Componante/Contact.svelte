@@ -87,7 +87,7 @@
                 <p>Serge Pingitore</p>
                 <div class="logo">
 
-                    <a href="mariane.gahengi@gmail.com">
+                    <a href="Serge.Pingitore@icloud.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail de Mariane Gahengi">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -95,7 +95,7 @@
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de Mariane Gahengi">
                         <p class="descriptionLogo">LinkedIn <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="https://www.facebook.com/people/Mariane-Gahengi/pfbid036EWt4qbs9QmZ94SsWNMfCk4Edrr12hiLbRw4kvvS9keofi9sGvrQrYXDqemEnDMLl/">
+                    <a href="https://www.facebook.com/CreationsdeSerge">
                         <img class="logoImg" src="images/logo/facebook.svg" alt="facebook de Mariane Gahengi">
                         <p class="descriptionLogo">Facebook <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
