@@ -288,6 +288,9 @@
             flex-direction: column;
             gap: 9rem;
         }
+        img{
+            height: auto;
+        }
         .allOpinion{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
