@@ -30,7 +30,7 @@ pageSrc = "/creationSerge">
   }
 img{
         width: 15rem;
-        height: fit-content;
+        height: auto;
         transition: 500ms;
 
     }
