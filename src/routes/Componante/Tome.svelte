@@ -6,6 +6,7 @@
     export let question;
     export let srcBuy="";
     export let link="";
+    export let enSavoirPlus;
 </script>
 <div class="tome">
     <SagaTitle>Tome {tomeNumber}</SagaTitle>
@@ -15,7 +16,7 @@
             <p class="description">{description}</p>
             <p>{question}</p>
             {#if link}
-            <a href="{link}"><p>En savoir plus ></p></a>
+            <a href="{link}"><p>{enSavoirPlus} ></p></a>
             {/if}
             
             {#if srcBuy}

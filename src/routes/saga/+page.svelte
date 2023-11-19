@@ -45,6 +45,7 @@
         Êtes-vous prêts à découvrir leur histoire ?"
         srcBuy="https://www.editions-maia.com/livre/quatre-1-les-medaillons-oublies/"
         link="../../saga/les-quatre-heros"
+        enSavoirPlus="Les Quatre Héros"
         >
         <img src="/images/book.webp" alt="couverture tome 1">
     </Tome>
