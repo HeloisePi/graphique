@@ -44,7 +44,7 @@
         question="Que représentent ces médaillons ? Peut-être cela a-t-il un lien avant la légende ancienne que la vieille chamane raconte à sa petite fille au début du roman ?
         Êtes-vous prêts à découvrir leur histoire ?"
         srcBuy="https://www.editions-maia.com/livre/quatre-1-les-medaillons-oublies/"
-        link=""
+        link="../../saga/les-quatre-heros"
         >
         <img src="/images/book.webp" alt="couverture tome 1">
     </Tome>
