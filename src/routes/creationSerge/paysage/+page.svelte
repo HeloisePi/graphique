@@ -31,7 +31,6 @@ pageSrc = "/creationSerge">
 img{
         width: 15rem;
         height: auto;
-        height: fit-content;
         transition: 500ms;
 
     }
