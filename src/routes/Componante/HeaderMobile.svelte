@@ -9,8 +9,6 @@ onMount(() => {
   const cross = document.querySelector(".cross");
 
   const handleClick = (e) => {
-    console.log('ga');
-
     if (e.target.classList.contains("toggle")) {
       slide.classList.toggle("close");
       toggle.classList.toggle("is-close");
