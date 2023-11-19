@@ -188,6 +188,10 @@
         text-align: center;
         color: black;
     }
+    #contact a img:hover{
+        transform: scale(110%);
+        transition: ease 500ms;
+    }
 
     #contact p{
         margin-bottom: 1rem;
