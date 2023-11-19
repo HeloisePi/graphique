@@ -289,7 +289,7 @@
             gap: 9rem;
         }
         img{
-            height: auto;
+            height: fit-content;
         }
         .allOpinion{
             display: grid;
