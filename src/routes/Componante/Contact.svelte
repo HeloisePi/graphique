@@ -41,7 +41,7 @@
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de la team Pinpin">
                         <p class="descriptionLogo">Linkedin <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="teampinpin@gmail.com">
+                    <a href="mailto:teampinpin@gmail.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail d'un des membres de la team Pinpin">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -51,7 +51,7 @@
                 <p>Mariane Gahengi</p>
                 <div class="logo">
                     
-                    <a href="mariane.gahengi@gmail.com">
+                    <a href="mailto:mariane.gahengi@gmail.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail de Mariane Gahengi">
                         <p class="descriptionLogo" >Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -87,7 +87,7 @@
                 <p>Serge Pingitore</p>
                 <div class="logo">
 
-                    <a href="Serge.Pingitore@icloud.com">
+                    <a href="mailto:Serge.Pingitore@icloud.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail de Mariane Gahengi">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
