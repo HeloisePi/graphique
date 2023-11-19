@@ -5,7 +5,7 @@
     export let name;
 </script>
 
-<div>
+<div class="personnage">
     <SagaTitle>{name}</SagaTitle>
     <div class="contenaire">
         <img src="{srcImg}" alt="{name}">
@@ -16,8 +16,14 @@
 </div>
 
 <style>
+    .personnage{
+        width: 60vw;
+    }
     .contenaire{
-        display: flex;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        justify-items: center;
         gap: 3rem;
     }
     img{
@@ -30,7 +36,7 @@
 
     @media screen and (max-width: 650px) {
         .contenaire{
-        flex-direction: column;
+        grid-template-columns: 1fr;
     }
     
     }
