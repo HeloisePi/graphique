@@ -18,7 +18,7 @@
 
 	<footer>
 		<p>
-			© 2023 - Tous droits réservés à la team Pinpin  - Mentions légales
+			© 2023 - Tous droits réservés à l'Épopée Graphique  - Mentions légales
 		</p>
 	</footer>
 </div>

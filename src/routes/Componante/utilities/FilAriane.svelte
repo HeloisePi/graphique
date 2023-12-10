@@ -3,7 +3,7 @@
     export let pageSrc;
 </script>
 
-<p class="filAriane"><a href="../">Team Pinpin</a> > <a href="{pageSrc}">{pageName}</a> <slot></slot></p>
+<p class="filAriane"><a href="../">Épopée Graphique</a> > <a href="{pageSrc}">{pageName}</a> <slot></slot></p>
 
 
 <style>

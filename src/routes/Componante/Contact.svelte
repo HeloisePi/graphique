@@ -15,7 +15,7 @@
         </div>
     </div>
     <p>
-        La Team Pinpin est 
+        L'Épopée Graphique est 
         composée d’un frère et d’une soeur ainsi que de la fille de cette dernière.
          En travaillant ensemble sur leur projet littéraire et artistique, ils ont
           pu créer des histoires plus vivantes et mémorables, ainsi que renforcer les
@@ -34,14 +34,14 @@
     
    
             <div class="teampinpin">
-                <p>La team Pinpin</p>
+                <p>Épopée Graphique</p>
                 <div class="logo">
                     
                     <a href="https://www.linkedin.com/in/marianegahengi/">
-                        <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de la team Pinpin">
+                        <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de l'Épopée Graphique">
                         <p class="descriptionLogo">Linkedin <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="mailto:teampinpin@gmail.com">
+                    <a href="mailto:epopeegraphique@gmail.com">
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail d'un des membres de la team Pinpin">
                         <p class="descriptionLogo">Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>

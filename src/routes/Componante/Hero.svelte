@@ -2,7 +2,7 @@
 
 </script>
 <section>
-    <h1>Team PinPin</h1>
+    <h1>Épopée Graphique</h1>
     <p>“Les deux arts d’écrire et de dessiner
          sont naturellement associés.” (Charles Dickens)</p>
 
