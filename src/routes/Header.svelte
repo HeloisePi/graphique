@@ -30,6 +30,8 @@
 		position: fixed;
 		width: 100vw;
 		z-index: 4;
+		height: 70px;
+		top: 0;
 
 		
 	}
