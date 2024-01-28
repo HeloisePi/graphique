@@ -7,15 +7,11 @@
     <img src="/images/book.webp" alt="Livre saga">
     <div>
         <h2>La Saga QUATRE</h2>
-        <p>QUATRE, romans de fantasy, suit les aventures de Rashele, Dyane,
-             Tim et Side. Au commencement, ils ne se connaissent pas et
-              vivent dans quatre continents
-             différents. Ils découvrent par la suite qu’ils sont les héritiers
-              de grandes familles mandatées par les quatre Mères et Pères Fondateurs
-               de l’Humanité pour protéger l’Homme de lui-même.
-            Mariane Gahengi et Serge Pingitore, autrices et illustrateur, vous proposent
-             un format novateur où l’écriture s’allie aux croquis, aux illustrations 
-             et à la bande dessinée pour emmener le lecteur dans l’imaginaire narratif.</p>
+        <p>QUATRE, roman de fantasy, suit les aventures de Rashele, Dyane, Tim et Side. Au commencement,
+             ils ne se connaissent pas et vivent dans quatre continents différents. Ils découvrent par la
+              suite qu’ils sont les héritiers de grandes familles mandatées par les quatre Mères et Pères 
+              Fondateurs de l’Humanité pour protéger l’Homme de lui-même. Mariane Gahengi et Serge Pingitore, autrices et illustrateur,
+             vous proposent un format novateur où l’écriture s’allie aux croquis, aux illustrations et à la bande dessinée pour emmener le lecteur dans l’imaginaire narratif.</p>
 
              <Bouton src="/saga">Voir plus</Bouton>
     </div>

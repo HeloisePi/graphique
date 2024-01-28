@@ -15,12 +15,12 @@
         </div>
     </div>
     <p>
-        L'Épopée Graphique est 
+        Épopée Graphique est 
         composée d’un frère et d’une soeur ainsi que de la fille de cette dernière.
          En travaillant ensemble sur leur projet littéraire et artistique, ils ont
           pu créer des histoires plus vivantes et mémorables, ainsi que renforcer les
            thèmes et les émotions présents dans le texte. 
-        Team Pinpin est le résultat d’une expérience familiale enrichissante et complice.
+           Épopée Graphique est le résultat d’une expérience familiale enrichissante et complice.
     </p>
 </section>
 

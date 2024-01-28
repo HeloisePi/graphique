@@ -52,7 +52,7 @@
     
     <Tome 
     tomeNumber="2"
-    description="Les premières notes de Non, je ne regrette rien, résonnent dans les écouteurs discrets de la jeune fille. Elle marque le rythme de mouvements saccadés de la tête, ses yeux bridés fermés, ses deux longues tresses africaines blondes se balançant d’un côté et de l’autre d’un visage rond et noir. Elle agite les bras, tenant une fine baguette invisible de la main droite, imitant le chef d’orchestre dans sa volonté de synchroniser les cuivres, les basses et les violons. Tout son corps, calé dans un fauteuil, devant trois écrans sur lesquels des lignes ininterrompues de chiffres défilent, vibre, se laissant transporter par l’envolée des altos. Soudain, elle entrouvre les yeux, les écarquille, fronce son nez aquilin. Le bleu profond de son regard est attiré par un cercle concentrique tournoyant, entouré de points noirs, qui apparaît sur le fond blanc des ordinateurs."
+    description="Les premières notes de Non,« Non, je ne regrette rien », résonnent dans les écouteurs discrets de la jeune fille. Elle marque le rythme de mouvements saccadés de la tête, ses yeux bridés fermés, ses deux longues tresses africaines blondes se balançant d’un côté et de l’autre d’un visage rond et noir. Elle agite les bras, tenant une fine baguette invisible de la main droite, imitant le chef d’orchestre dans sa volonté de synchroniser les cuivres, les basses et les violons. Tout son corps, calé dans un fauteuil, devant trois écrans sur lesquels des lignes ininterrompues de chiffres défilent, vibre, se laissant transporter par l’envolée des altos. Soudain, elle entrouvre les yeux, les écarquille, fronce son nez aquilin. Le bleu profond de son regard est attiré par un cercle concentrique tournoyant, entouré de points noirs, qui apparaît sur le fond blanc des ordinateurs."
     question="Quel est ce message ? Aiderez-vous les Quatre et leurs nouveaux amis à résoudre ce nouveau mystère ?"
     srcBuy=""
     link=""
@@ -278,6 +278,25 @@
             srcImg="/images/opinion/33.webp"
             name="Traicy Books"
             link="https://www.instagram.com/p/Cy9-D5DupvQ/?img_index=1"
+            />
+            <Opinion 
+            srcImg="/images/opinion/35.png"
+            name="
+            LaPlumeDansLeMug"
+            link="https://booknode.com/quatre_tome_1_les_medaillons_oublies_03458466/commentaires/24221866"
+            />
+            <Opinion 
+            srcImg="/images/opinion/36.png"
+            name="
+            Les Lectures de Pippin
+"
+            link="https://leslecturesdepippin.wordpress.com/"
+            />
+            <Opinion 
+            srcImg="/images/opinion/37.png"
+            name="
+            ElaRaleuse"
+            link="https://www.babelio.com/livres/Gahengi-Quatre-tome-1--Les-medaillons-oublies/1446538"
             />
         </div>
     </div>
