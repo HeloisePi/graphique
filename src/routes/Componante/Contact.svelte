@@ -37,7 +37,7 @@
                 <p>Épopée Graphique</p>
                 <div class="logo">
                     
-                    <a href="https://www.linkedin.com/in/marianegahengi/">
+                    <a href="https://www.linkedin.com/in/viviane-pingitore-gavin/">
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de l'Épopée Graphique">
                         <p class="descriptionLogo">Linkedin <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
@@ -55,7 +55,7 @@
                         <img class="logoImg" src="images/logo/mail.svg" alt="mail de Mariane Gahengi">
                         <p class="descriptionLogo" >Mail <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
-                    <a href="https://www.linkedin.com/in/marianegahengi/">
+                    <a href="https://www.linkedin.com/in/viviane-pingitore-gavin/">
                         <img class="logoImg" src="images/logo/linkedin.svg" alt="linkedin de Mariane Gahengi">
                         <p class="descriptionLogo" >Linkedin <img class="linkExterneImg" src="/images/logo/externe.svg" alt="lien externe"></p>
                     </a>
