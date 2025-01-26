@@ -35,6 +35,10 @@
 
 		
 	}
+	.logo{
+		height: fit-content;
+		width: fit-content;
+	}
 	img{
 		width: 4rem;
 	}
