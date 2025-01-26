@@ -46,8 +46,9 @@
         srcBuy="https://www.editions-maia.com/livre/quatre-1-les-medaillons-oublies/"
         link="../../saga/les-quatre-heros"
         enSavoirPlus="Les Quatre Héros"
+        srcImgTome="/images/book.webp"
         >
-        <img src="/images/book.webp" alt="couverture tome 1">
+    
     </Tome>
     
     <Tome 
@@ -56,10 +57,9 @@
     question="Quel est ce message ? Aiderez-vous les Quatre et leurs nouveaux amis à résoudre ce nouveau mystère ?"
     srcBuy=""
     link=""
-    >
-    <slop> <img src="/images/saga/tome2.webp" alt="couverture tome 2">
-        <p>En cours d’écriture</p></slop>
-    </Tome>
+    srcImgTome="/images/saga/tome2.webp"
+></Tome>
+
     <div class="">
 
         <SagaTitle>Ils donnent leurs avis</SagaTitle>

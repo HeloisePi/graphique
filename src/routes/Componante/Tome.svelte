@@ -7,11 +7,12 @@
     export let srcBuy="";
     export let link="";
     export let enSavoirPlus;
+    export let srcImgTome;
 </script>
 <div class="tome">
     <SagaTitle>Tome {tomeNumber}</SagaTitle>
     <div class="imageDescription">
-        <slot></slot>
+        <img class="imgBook" src="{srcImgTome}" alt="illustration tome">
         <div class="descriptionBouton">
             <p class="description">{description}</p>
             <p>{question}</p>
@@ -28,6 +29,11 @@
     
     
 <style>
+
+    .imgBook{
+        width: 236px;
+        height: auto; 
+    }
 
     .imageDescription{
         display: flex;
