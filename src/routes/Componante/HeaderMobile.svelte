@@ -114,7 +114,7 @@ onMount(() => {
 
       .logo {
         width: 4rem;
-        height: fit-content;
+        height: auto;
       }
     
     .close {
