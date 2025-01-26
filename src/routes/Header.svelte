@@ -36,7 +36,7 @@
 		
 	}
 	.logo{
-		height: fit-content;
+		height: auto;
 		width: fit-content;
 	}
 	img{

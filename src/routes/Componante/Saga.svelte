@@ -4,7 +4,7 @@
 </script>
 
 <section class="contenaireSaga" id="saga">
-    <img src="/images/book.webp" alt="Livre saga">
+    <img src="/images/book.webp" alt="Livre saga"  class="book">
     <div>
         <h2>La Saga QUATRE</h2>
         <p>QUATRE, roman de fantasy, suit les aventures de Rashele, Dyane, Tim et Side. Au commencement,
@@ -27,6 +27,10 @@
         padding: 4rem;
         width: 70vw;
         margin: auto;
+    }
+
+    .book{
+        width: 215px;
     }
 
     .contenaireSaga div{
