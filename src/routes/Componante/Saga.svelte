@@ -29,7 +29,7 @@
         margin: auto;
     }
 
-    .book{
+    .contenaireSaga .book{
         width: 215px;
     }
 
