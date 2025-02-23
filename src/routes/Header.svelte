@@ -8,7 +8,7 @@
 			<a href="../saga">
 				<p>La Saga</p>
 			</a>
-			<a href="../creationSerge">
+			<a href="../../creationSerge">
 				<p>Les Créations de Serge</p>
 			</a>
 			<a href="../#about">
