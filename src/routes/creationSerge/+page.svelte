@@ -21,7 +21,7 @@
 <h1>Les créations de Serge</h1>
 <div class="about">
 
-    <p> Mon inspiration trouve sa source dans ce qui m’émeut  essais : 
+    <p> Mon inspiration trouve sa source dans ce qui m’émeut : 
         l’expression d’un regard, la tendresse d’un visage ou encore l’atmosphère
         d’un paysage.
         Et j’essaie humblement de révéler cette émotion dans mes œuvres. </p>
